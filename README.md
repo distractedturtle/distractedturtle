@@ -1,16 +1,38 @@
-### Hi there 👋
+## Welcome to my GitHub 👋
 
-<!--
-**theminer02/theminer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+At the moment you can only find my Discord-Bots here, but who knows, there might be more things in the future! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+#### 👤 About me
+
+- 💻 YouTuber
+- 🧱Minecraft Builder
+- 🇨🇭 Based in Switzerland
+
+---
+#### 🌐 Find me here
+
+- Donate: https://streamlabs.com/theminer_02/tip
+- Website: https://www.theminer02.com/
+- Discord: https://link.theminer02.com/discord/
+- Instagram: https://www.instagram.com/theminer_02/
+- Twitter: https://twitter.com/theminer_02
+- Patreon: https://www.patreon.com/theminer02
+- Twitch *(German)*: https://www.twitch.tv/theminer_02
+
+---
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theminer02&show_icons=true&theme=dark&count_private=true&hide=prs,issues&include_all_commits=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theminer02&theme=dark&layout=compact) 
+
+---
+
+<p align="left">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=theminer02" alt="page views" />
+  </a>
+  </a>
+  <a>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theminer02?color=green&logo=github">
+  </a>
+</p>
