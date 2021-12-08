@@ -18,7 +18,6 @@ At the moment you can only find my Discord-Bots here, but who knows, there might
 - Discord: https://link.theminer02.com/discord/
 - Instagram: https://www.instagram.com/theminer_02/
 - Twitter: https://twitter.com/theminer_02
-- Patreon: https://www.patreon.com/theminer02
 - Twitch *(German)*: https://www.twitch.tv/theminer_02
 
 ---
