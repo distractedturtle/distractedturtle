@@ -13,11 +13,11 @@ At the moment you can only find my Discord-Bots here, but who knows, there might
 ---
 #### 🌐 Find me here
 
-- Donate: https://streamlabs.com/theminer_02/tip
+- YouTube: https://www.youtube.com/theminer02
+- Donate: https://www.tipeeestream.com/theminer02/donation
 - Website: https://www.theminer02.com/
 - Discord: https://link.theminer02.com/discord/
 - Instagram: https://www.instagram.com/theminer_02/
-- Twitter: https://twitter.com/theminer_02
 - Twitch *(German)*: https://www.twitch.tv/theminer_02
 
 ---
