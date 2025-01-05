@@ -6,17 +6,8 @@ At the moment you can only find my Discord-Bots here, but who knows, there might
 ---
 #### 👤 About me
 
-- 💻 YouTuber
 - 🧱 Minecraft Builder
 - 🎬 Team @ https://alps-bte.com/
-
----
-#### 🌐 Find me here
-
-- YouTube: https://www.youtube.com/@theminer02
-- Website: https://www.theminer02.com/
-- Discord: https://link.theminer02.com/discord/
-- Instagram: https://www.instagram.com/theminer_02/
 
 ---
 
