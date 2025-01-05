@@ -6,8 +6,8 @@ At the moment you can only find my Discord-Bots here, but who knows, there might
 ---
 #### 👤 About me
 
-- 🧱 Minecraft Builder
 - 🎬 Team @ https://alps-bte.com/
+- 🧱 Minecraft Builder
 
 ---
 
